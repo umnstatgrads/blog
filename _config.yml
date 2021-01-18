@@ -34,11 +34,11 @@ timezone: America/Chicago # see https://en.wikipedia.org/wiki/List_of_tz_databas
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
-  name      : Your Name
-  url       :
+  type      : "organization" # "person" (default), "organization"
+  name      : UMN Statistics Graduate Student Committee
+  url       : 'https://umnstatgrads.github.io/'
   avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  bio       : We are committed to facilitate graduate students' studies and the communication between faculties and students.
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
