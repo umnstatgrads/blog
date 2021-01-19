@@ -1,4 +1,7 @@
 header:
+  - title: Home
+    url: https://umnstatgrads.github.io/
+      
   - titles:
       # @start locale config
       en      : &EN       Archive
