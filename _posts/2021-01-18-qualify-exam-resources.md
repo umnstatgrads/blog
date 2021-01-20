@@ -2,7 +2,6 @@
 title: Qualify Exam Resources
 author: Yu Yang
 tags: qualify
-key: page-about
 ---
 
 This post summarizes the resources to prepare for the qualifying exams for Ph.D. students. You may also directly check [Google Drive](https://drive.google.com/drive/folders/13v2i41PH10wtqAyM7Re9nPQMLOGewDV4?usp=sharing) for the packaged resources.
