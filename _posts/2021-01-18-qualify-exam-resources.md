@@ -37,6 +37,8 @@ This post summarizes the resources to prepare for the qualifying exams for Ph.D.
 - [Some Understandings on 8111-8112](https://yuyangyy.com/assets/courses/8111-8112.html)
 - [My Solutions to some Applied Exams](https://github.com/yuyangstatistics/qualify_code)
 
+### by [Marten Thompson](mailto:thom7058@umn.edu)
+- [Theory Qual Study Strategy](https://martenthompson.com/pages/academics/qual/theory_strat.html)
 <!--more-->
 
 ---
