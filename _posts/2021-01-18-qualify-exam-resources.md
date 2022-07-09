@@ -35,7 +35,7 @@ This post summarizes the resources to prepare for the qualifying exams for Ph.D.
 
 ### by [Yu Yang](mailto:yang6367@umn.edu)
 - [Some Understandings on 8111-8112](https://yuyangyy.com/assets/courses/8111-8112.html)
-- [My Solutions to some Applied Exams](https://github.umn.edu/YANG6367/qualifyCode)
+- [My Solutions to some Applied Exams](https://github.com/yuyangstatistics/qualify_code)
 
 <!--more-->
 
